@@ -27,3 +27,5 @@ This project was inspired by tutorial https://www.freecodecamp.org/news/how-to-b
 1. **Keyword Density calculator**
 2. **Support calculation from either large text / raw html / direct URL**
 3. **Standardized development environment with devcontainers**
+
+---
