@@ -33,3 +33,7 @@ This project was inspired by tutorial https://www.freecodecamp.org/news/how-to-b
 ## ⚙️ Tech Stack 
 1. **Laravel**
 2. **JQuery**
+3. **HTML, CSS, & bootstrap**
+4. **Daytona**
+
+---
