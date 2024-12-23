@@ -12,7 +12,7 @@ This project was inspired by tutorial https://www.freecodecamp.org/news/how-to-b
 
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
-   ```bash  
+   ```bash
    daytona create https://github.com/daytonaio/sample-laravel-keyword-density.git
    ```  
 
@@ -27,5 +27,13 @@ This project was inspired by tutorial https://www.freecodecamp.org/news/how-to-b
 1. **Keyword Density calculator**
 2. **Support calculation from either large text / raw html / direct URL**
 3. **Standardized development environment with devcontainers**
+
+---
+
+## ⚙️ Tech Stack 
+1. **Laravel**
+2. **JQuery**
+3. **HTML, CSS, & bootstrap**
+4. **Daytona**
 
 ---
